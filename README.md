@@ -1,6 +1,6 @@
 # ElDatePicker Patch
 
-> build For ElementUI version: 2.5.17
+> build on ElementUI version: 2.5.17, code from https://github.com/ElemeFE/element/pull/17101/files
 
 + support yearrange
 
