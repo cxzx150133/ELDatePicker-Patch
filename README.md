@@ -56,3 +56,6 @@ Vue.component('ElDatePickerPatched', ElDatePicker)
     ...
 </script>
 ```
+
+## known bug
+If ElDatePicker is directly overridden, the z-index of the year picker in the popup will be incorrectly calculated.
